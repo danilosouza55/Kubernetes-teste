@@ -1,6 +1,6 @@
 FROM golang:1.15
 
-WORKDIR /go/src/fullcycle
+WORKDIR /go/src/kubernetes
 COPY . .
 RUN GOOS=linux go build
-CMD ["./fullcycle"]
+CMD ["./kubernetes"]
