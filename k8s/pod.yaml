@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: "hotserver"
-      image: wesleywillians/esquenta-k8s-live:latest
+      image: danilo55555/kubernetes:latest

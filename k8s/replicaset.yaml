@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: "hotserver"
-          image: wesleywillians/esquenta-k8s-live:v2
+          image: danilo55555/kubernetes:v2
